@@ -3,7 +3,7 @@
 # Installation
 ## Auto
 1. Install [AM/AppMan](https://github.com/ivan-hc/AM), it's a very good tool to install AppImages
-2. This program isn't in AM's repo list, you'll have to added manually
+2. This program isn't in AM's repo list, you'll have to add it manually
 
 `am extra contrarybaton60/Lutris-appimage lutris`
 
