@@ -9,7 +9,7 @@
 
 or
 
-`appman contrarybaton60/Lutris-appimage lutris`
+`appman extra contrarybaton60/Lutris-appimage lutris`
 
 ## Manual
 
